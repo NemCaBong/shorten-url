@@ -1,0 +1,15 @@
+.copy-link-button {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  outline: none;
+  border: 1px solid #cccccc;
+  cursor: pointer;
+  border-radius: 25%;
+}
+.copy-link-button:hover {
+  background-color: #dddddd;
+}
+.short-url {
+  position: relative;
+}
